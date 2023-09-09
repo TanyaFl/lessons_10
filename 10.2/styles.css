@@ -1,0 +1,10 @@
+﻿.my-table {
+    border-spacing: 0;
+    border: 1px solid navy;
+}
+.my-table td {
+    border: 1px solid navy;
+    padding: 10px;
+    text-align: center;
+    color: navy;
+}

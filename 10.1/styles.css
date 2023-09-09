@@ -1,0 +1,24 @@
+﻿#inpt {
+    cursor: pointer;
+}
+#container {
+    position: relative;
+}
+#popup {
+    position: absolute;
+    border: 1px solid navy;
+    background-color: azure;
+    border-radius: 10px;
+    width: 250px;
+    height: 125px;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 400;
+    color: navy;
+    padding-left: 30px;
+    padding-right: 30px;
+    left: 180px;
+    top: -1px;
+}
